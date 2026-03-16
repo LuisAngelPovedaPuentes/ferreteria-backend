@@ -1,6 +1,6 @@
-# 🛠️ Sistema de Gestión para Ferretería (Backend)
+# 🛠️ Sistema de Gestión - Ferretería La Economía A y G (Backend)
 
-Este proyecto constituye el **Proyecto de Grado** desarrollado para la obtención del título de **Técnico Profesional en Soporte de Sistemas Informáticos y Redes** en la Fundación Escuela Tecnológica (FET). Se trata de un ecosistema digital robusto diseñado para optimizar el control de inventarios, ventas y administración de una ferretería.
+Este proyecto constituye el **Proyecto de Grado** desarrollado para la obtención del título de **Técnico Profesional en Soporte de Sistemas Informáticos y Redes** en la Fundación Escuela Tecnológica (FET). Se trata de un ecosistema digital robusto diseñado para optimizar el control de inventarios, ventas y administración de la Ferretería La Economía A y G.
 
 ## 🏗️ Arquitectura y Diseño
 El proyecto destaca por la implementación de **Arquitectura Hexagonal (Puertos y Adaptadores)**, lo que garantiza un código altamente mantenible, testeable y desacoplado:
