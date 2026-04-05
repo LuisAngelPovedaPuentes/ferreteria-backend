@@ -8,13 +8,11 @@ Este proyecto forma parte de mi proceso de formación como desarrollador backend
 
 ## 🏗️ Arquitectura
 
-El proyecto está basado en **Arquitectura Hexagonal (Ports & Adapters)**, lo que permite separar la lógica de negocio de las tecnologías externas.
+El proyecto está basado en **Arquitectura Hexagonal (Ports & Adapters)**.
 
-Estructura:
-
-- **Domain**: Entidades y lógica de negocio  
-- **Application**: Casos de uso y puertos  
-- **Infrastructure**: Controladores REST, repositorios y configuración  
+- Domain: lógica de negocio  
+- Application: casos de uso  
+- Infrastructure: controladores y base de datos  
 
 ---
 
@@ -22,7 +20,6 @@ Estructura:
 
 - Java 17  
 - Spring Boot  
-- Spring Data JPA  
 - MySQL  
 - Gradle  
 
@@ -32,14 +29,11 @@ Estructura:
 
 - CRUD de productos  
 - CRUD de proveedores  
-- Gestión de usuarios  
 - API REST  
 
 ---
 
 ## ▶️ Cómo ejecutar el proyecto
-
-1. Clonar el repositorio:
 
 ```bash
 git clone https://github.com/LuisAngelPovedaPuentes/ferreteria-backend
