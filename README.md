@@ -20,8 +20,7 @@ Estructura:
 
 ## 🚀 Tecnologías
 
-- Java 17
-- Spring Boot 
+- Java 17  
 - Spring Boot  
 - Spring Data JPA  
 - MySQL  
