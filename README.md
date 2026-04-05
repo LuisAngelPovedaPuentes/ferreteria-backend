@@ -33,19 +33,22 @@ El proyecto está basado en **Arquitectura Hexagonal (Puertos y Adaptadores)**.
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
-
-```bash
-git clone https://github.com/LuisAngelPovedaPuentes/ferreteria-backend
-
----
-
 ## 👥 Equipo
 
 - Luis Angel Poveda  
 - Linda Paola Carreño  
 - Alejandra Vargas  
 
-## 📌 Nota
+
+## ▶️ Cómo ejecutar el proyecto
+
+```bash
+git clone https://github.com/LuisAngelPovedaPuentes/ferreteria-backend
+
+./gradlew bootRun
+
+---
+
+📌 Nota
 
 Proyecto académico desarrollado como parte de mi formación en ingeniería de software.
