@@ -49,6 +49,7 @@ git clone https://github.com/LuisAngelPovedaPuentes/ferreteria-backend
 
 ---
 
-📌 Nota
+
+##📌 Nota
 
 Proyecto académico desarrollado como parte de mi formación en ingeniería de software.
