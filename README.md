@@ -8,11 +8,11 @@ Este proyecto forma parte de mi proceso de formación como desarrollador backend
 
 ## 🏗️ Arquitectura
 
-El proyecto está basado en **Arquitectura Hexagonal (Ports & Adapters)**.
+El proyecto está basado en **Arquitectura Hexagonal (Puertos y Adaptadores)**.
 
-- Domain: lógica de negocio  
-- Application: casos de uso  
-- Infrastructure: controladores y base de datos  
+- **Dominio**: lógica de negocio  
+- **Aplicación**: casos de uso  
+- **Infraestructura**: controladores y base de datos  
 
 ---
 
